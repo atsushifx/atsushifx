@@ -6,7 +6,10 @@
   },
   "rules": {
     "ginger": {
-      "skipPatterns": []
+      "skipPatterns": [
+        "eXtreme",
+        "Atsyshi"
+      ]
     },
     "write-good": {
       "passive": true,
@@ -16,7 +19,15 @@
     "common-misspellings": {},
     "spelling": {
       "language": "en",
-      "skipPatterns": [],
+      "skipPatterns":[
+        "Atsushi",
+        "atsushifx",
+        "eXtreme",
+        "XPer",
+        "OCaml",
+        "LinkedIn",
+        "2c"
+      ],
       "suggestCorrections": true
     },
     "terminology": {

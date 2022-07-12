@@ -2,10 +2,14 @@
 
 I'm XPer (♥ eXtreme Programming), agile development
 
-- 🌱 I’m currently learning: scheme, OCaml
-- 👯 Pronouns: atsushi (call like @2C)
+- 🌱 I’m learning: scheme, OCaml
+- 👯 Pronouns: Atsushi (call like a2c)
 
-## Social
+## Reach me
+
+- [![Twitter](https://img.shields.io/twitter/follow/atsushifx?style=social)](https://twitter.com/atsushifx)
+- [![LinkedIn](https://img.shields.io/badge/llinkedin-atsushifx-blue)](https://www.linkedin.com/in/atsushifx)
+- [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCxkECmz7aQwsvz-9sszI6iw?style=social)](https://www.youtube.com/channel/UCxkECmz7aQwsvz-9sszI6iw)
 
 ## GitHub activity
 
@@ -15,4 +19,4 @@ I'm XPer (♥ eXtreme Programming), agile development
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atsushifx&theme=drscura&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atsushifx)](https://github.com/atsushifx/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atsushifx)](https://github.com/ryo-ma/github-profile-trophy)
