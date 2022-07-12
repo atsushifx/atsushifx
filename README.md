@@ -11,6 +11,6 @@ I'm XPer (♥ eXtreme Programming), agile development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsushifx)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=atsushifx&show_icons=true&count_private=true&line_height=40)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atsushifx)](https://github.com/atsushifx/github-profile-trophy)
