@@ -21,5 +21,4 @@ I'm XPer (♥ eXtreme Programming), agile development
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atsushifx)](https://github.com/ryo-ma/github-profile-trophy)
-[![stats](https://github-readme-stats.vercel.app/api?username=atsushifx)](https://github.com/anuraghazra/github-readme-stats)
 
