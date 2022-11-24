@@ -7,6 +7,7 @@ I'm XPer (♥ eXtreme Programming), agile development
 
 ## Reach me
 
+- [![Rx Resume](https://img.shields.io/badge/rx_resume-atsushifx-lightgray)](https://rxresu.me/r/sn61jrVd)
 - [![Twitter](https://img.shields.io/twitter/follow/atsushifx?style=social)](https://twitter.com/atsushifx)
 - [![LinkedIn](https://img.shields.io/badge/llinkedin-atsushifx-blue)](https://www.linkedin.com/in/atsushifx)
 - [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCxkECmz7aQwsvz-9sszI6iw?style=social)](https://www.youtube.com/channel/UCxkECmz7aQwsvz-9sszI6iw)
