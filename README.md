@@ -11,9 +11,9 @@ I'm XPer (♥ eXtreme Programming), agile development
 - [![Twitter](https://img.shields.io/twitter/follow/atsushifx?style=social)](https://twitter.com/atsushifx)
 - [![LinkedIn](https://img.shields.io/badge/llinkedin-atsushifx-blue)](https://www.linkedin.com/in/atsushifx)
 - [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCxkECmz7aQwsvz-9sszI6iw?style=social)](https://www.youtube.com/channel/UCxkECmz7aQwsvz-9sszI6iw)
+- [![wakatime](https://wakatime.com/badge/user/81aa8002-60bc-4b25-8883-5f9403b1183c.svg)](https://wakatime.com/@atsushifx)
 
 ## GitHub activity
-
 
 <!-- Top \langs & stats -->
 <p align="left">
