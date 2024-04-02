@@ -12,6 +12,11 @@ I'm programmer as loving eXtreme Programming, agile development, Functional Prog
 
 ## Reach me
 
+### Resume
+
+[![gitconectted](https://img.shields.io/badge/%E2%88%9E-gitconnected-blue.svg)](https://gitconnected.com/atsushifx/resume)
+[![rx-resume](https://img.shields.io/badge/rx-resume-red.svg)](https://rxresu.me/atsushifx/resume-in-englsh)
+
 ### Social Networks
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/atsushifx)](https://twitter.com/atsushifx)
