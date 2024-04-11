@@ -37,11 +37,10 @@ I'm programmer as loving eXtreme Programming, agile development, Functional Prog
 </p>
 <!-- markdownlint-enable -->
 
-### Sponsered
+### Donation
 <!-- markdownlint-disable no-inline-html line-length -->
 <p align="right">
-  <a href="https://www.buymeacoffee.com/atsushifx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=atsushifx&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" style="font-size: 10px; width: 12em; height: 0.6em;" /></a>
-  <br />
-  <a href='https://ko-fi.com/H2H7WEY4D' target='_blank'><img src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' style="height: 36px;" />
+  <a href="https://paypal.me/atsushifx" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/jp/developer/BN-paypal-logo320_145.png" border="0" alt="paypal me" width="160"></a><br />
+  <a href='https://ko-fi.com/H2H7WEY4D' target='_blank'><img src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' style="height: 36px;" /><br />
 </p>
 <!-- markdownlint-enable -->

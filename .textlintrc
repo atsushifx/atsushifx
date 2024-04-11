@@ -8,7 +8,7 @@
     "ginger": {
       "skipPatterns": [
         "eXtreme",
-        "Atsyshi"
+        "Atsushi"
       ]
     },
     "write-good": {
